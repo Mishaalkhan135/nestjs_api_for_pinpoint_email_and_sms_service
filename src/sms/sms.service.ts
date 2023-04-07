@@ -14,7 +14,7 @@ export class SmsService {
     //================================================================
     // Add your Pinpoint Application ID
     //================================================================
-    const ApplicationId = '86acfac1994f4a23a361da22e239b5da';
+    const ApplicationId = 'Dummy';
     const pinpointParams = {
       ApplicationId,
       MessageRequest: {
